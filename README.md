@@ -16,3 +16,6 @@ The implementation of "Multi-Scale absolute average gray difference", "Multi-Sca
 - https://github.com/bhatt-piyush/Infrared-Search-and-Track
 A technical report on infrared search and track (IRST) system for small target detection in infrared images.
 Improved the time complexity by 34.80% and probability of detection by 12.75% of ‘Infrared Patch Image’ model while keeping the False Alarm Rate still close to 1 false-alarm-per-image.
+
+- https://github.com/Alakia/Tophat_IR_TargetDetection
+Infrared Small Target Detection using TopHat Transform.
