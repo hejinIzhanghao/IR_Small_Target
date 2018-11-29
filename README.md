@@ -19,3 +19,6 @@ Improved the time complexity by 34.80% and probability of detection by 12.75% of
 
 - https://github.com/Alakia/Tophat_IR_TargetDetection
 Infrared Small Target Detection using TopHat Transform.
+
+- https://github.com/jinglou/p2016-rss-small-target
+ "Small Target Detection Combining Regional Stability and Saliency in a Color Image"
