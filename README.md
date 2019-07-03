@@ -5,7 +5,7 @@ resources for IR small target detection
 code is for infrared small target detection method based on Generalized Structure Tensor (GST). “”Generalised-structure-tensor-based infrared small target detection”， Electronics Letters， 2008
 - https://github.com/gaocq/MoG-for-small-target-detection
 code for “Infrared small-dim target detection based on Markov random field guided noise modeling” , Pattern Recognition, 2018
-- https://github.com/gaocq/IPI-for-small-target-detection
+- :star: https://github.com/gaocq/IPI-for-small-target-detection
 code for "Infrared Patch-Image Model for Small Target Detection in a Single Image", IEEE Transactions on Image Processing, 2013
 - https://github.com/ZuoYuShen/Infrared_image_detection_via_apg
 The detection is formulated as an optimization problem of recovering low_rank and sparse matrices via apg algorithm.
