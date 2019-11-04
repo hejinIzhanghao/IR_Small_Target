@@ -12,7 +12,14 @@ The detection is formulated as an optimization problem of recovering low_rank an
 
 - https://github.com/Lanneeee/NRAM
 The implemention of NRAM model in "Infrared Small Target Detection via Non-Convex Rank Approximation Minimization Joint l2,1 Norm" 
-  
+- https://github.com/Lanneeee/Infrared-Small-Target-Detection-based-on-PSTNN
+matlab code implements the infrared small target detection model based on partial sum of the tensor nuclear norm. 
+
+- https://github.com/ShoupingShan/Hyperspectral-image-target-detection-based-on-sparse-representation
+Hyperspectral image Target Detection based on Sparse Representation 
+- https://github.com/xdbaqiao/LRR-cpp
+The C++ version of low rank representation 
+
 - https://github.com/zhangleiray007/LIG
 The implemention of "Infrared Small Target Detection Based on Local Intensity and Gradient Properties"
   
