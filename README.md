@@ -36,7 +36,7 @@ Infrared Small Target Detection using TopHat Transform.
 - :star: https://github.com/jinglou/p2016-rss-small-target 
  "Small Target Detection Combining Regional Stability and Saliency in a Color Image"
 
-- https://github.com/Suqi-Huang/DensityPeaksIR
+- :star: :star: https://github.com/Suqi-Huang/DensityPeaksIR
 The implementation of "Infrared Small Target Detection by Density Peaks Searching and Maximum-gray Region Growing"  IEEE Geoscience and Remote Sensing Letters, 2019.
 
 - https://github.com/tsinjiao/InfraredTargetDectectionFKRW
